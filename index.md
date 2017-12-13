@@ -1,8 +1,6 @@
-<center><img src="{{ site.baseurl }}/tutheaderbl.png" alt="Img"></center>
-
-To add images, replace `tutheaderbl1.png` with the file name of any image you upload to your GitHub repository.
-
 ### Visualising time series in GGPLOT2
+
+<center><img src="{{ site.baseurl }}/temp_fluctuations.png" alt="Img"></center>
 
 #### <a href="#section1"> 1. Introduction to the dataset</a>
 
